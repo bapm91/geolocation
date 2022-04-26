@@ -1,4 +1,4 @@
-# Just apdate kotlin version
+# Just update kotlin version
 
 # geolocation
 
